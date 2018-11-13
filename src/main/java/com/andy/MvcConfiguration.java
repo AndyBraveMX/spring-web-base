@@ -1,4 +1,4 @@
-package otognan;
+package com.andy;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
